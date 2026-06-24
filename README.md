@@ -15,11 +15,3 @@ O sistema organiza os chamados automaticamente no momento da inserção, garanti
   2. Remoção de nó com 1 filho (reconexão direta).
   3. Remoção de nó com 2 filhos (busca pelo menor valor da subárvore à direita, o "nó sucessor", para substituição).
 * **Travessia In-Order Inversa:** Criação de um método de leitura customizado que percorre a árvore da Direita -> Raiz -> Esquerda, permitindo imprimir a fila no terminal de forma perfeitamente decrescente (do mais urgente para o menos urgente).
-
-## 🚀 Como executar o projeto
-
-Certifique-se de ter o [Python](https://www.python.org/) instalado em sua máquina (versão 3.6 ou superior recomendada).
-
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
